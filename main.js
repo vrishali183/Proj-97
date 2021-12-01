@@ -31,27 +31,27 @@ console.log(keyPressed);
 
 	if(keyPressed == '82') 
 	{
-		new_image('Ron.png')
+		new_image('')
 		console.log("r")
 	}
 	if(keyPressed == '71')
 	{
 		block_x =200 ;
-		new_image('Hermoine.png')
+		new_image('')
 		console.log("g")
 	}
 	
 	if(keyPressed == '72')
 	{
 		block_x =350;
-		new_image('Harry_Potter.png')
+		new_image('')
 		console.log("h")
 	}
 	
 	if(keyPressed == '68')
 	{
 		block_x =700 ;
-	    new_image('Dumbledore.jpg')
+	    new_image('')
 		console.log("d")
 	}
 	
